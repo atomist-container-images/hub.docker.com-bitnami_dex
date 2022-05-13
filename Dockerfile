@@ -1,12 +1,42 @@
-# Tags: latest, 2.31.1-debian-10-r38, 2.31.1, 2-debian-10, 2
+# Tags: latest, 2.31.1-debian-10-r48, 2.31.1, 2-debian-10, 2
 FROM bitnami/dex:latest
-FROM bitnami/dex:2.31.1-debian-10-r38
+FROM bitnami/dex:2.31.1-debian-10-r48
 FROM bitnami/dex:2.31.1
 FROM bitnami/dex:2-debian-10
 FROM bitnami/dex:2
 
 # Tags: _
 FROM bitnami/dex:_
+
+# Tags: 2.31.1-debian-10-r47
+FROM bitnami/dex:2.31.1-debian-10-r47
+
+# Tags: 2.31.1-debian-10-r46
+FROM bitnami/dex:2.31.1-debian-10-r46
+
+# Tags: 2.31.1-debian-10-r45
+FROM bitnami/dex:2.31.1-debian-10-r45
+
+# Tags: 2.31.1-debian-10-r44
+FROM bitnami/dex:2.31.1-debian-10-r44
+
+# Tags: 2.31.1-debian-10-r43
+FROM bitnami/dex:2.31.1-debian-10-r43
+
+# Tags: 2.31.1-debian-10-r42
+FROM bitnami/dex:2.31.1-debian-10-r42
+
+# Tags: 2.31.1-debian-10-r41
+FROM bitnami/dex:2.31.1-debian-10-r41
+
+# Tags: 2.31.1-debian-10-r40
+FROM bitnami/dex:2.31.1-debian-10-r40
+
+# Tags: 2.31.1-debian-10-r39
+FROM bitnami/dex:2.31.1-debian-10-r39
+
+# Tags: 2.31.1-debian-10-r38
+FROM bitnami/dex:2.31.1-debian-10-r38
 
 # Tags: 2.31.1-debian-10-r37
 FROM bitnami/dex:2.31.1-debian-10-r37
@@ -64,33 +94,3 @@ FROM bitnami/dex:2.31.1-debian-10-r20
 
 # Tags: 2.31.1-debian-10-r19
 FROM bitnami/dex:2.31.1-debian-10-r19
-
-# Tags: 2.31.1-debian-10-r18
-FROM bitnami/dex:2.31.1-debian-10-r18
-
-# Tags: 2.31.1-debian-10-r17
-FROM bitnami/dex:2.31.1-debian-10-r17
-
-# Tags: 2.31.1-debian-10-r16
-FROM bitnami/dex:2.31.1-debian-10-r16
-
-# Tags: 2.31.1-debian-10-r15
-FROM bitnami/dex:2.31.1-debian-10-r15
-
-# Tags: 2.31.1-debian-10-r14
-FROM bitnami/dex:2.31.1-debian-10-r14
-
-# Tags: 2.31.1-debian-10-r13
-FROM bitnami/dex:2.31.1-debian-10-r13
-
-# Tags: 2.31.1-debian-10-r12
-FROM bitnami/dex:2.31.1-debian-10-r12
-
-# Tags: 2.31.1-debian-10-r11
-FROM bitnami/dex:2.31.1-debian-10-r11
-
-# Tags: 2.31.1-debian-10-r10
-FROM bitnami/dex:2.31.1-debian-10-r10
-
-# Tags: 2.31.1-debian-10-r9
-FROM bitnami/dex:2.31.1-debian-10-r9
